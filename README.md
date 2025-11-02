@@ -36,5 +36,3 @@ By using rolling averages of key metrics (like goals, shots, and possession) and
 
 ---
 
-## 📂 Project Structure
-
